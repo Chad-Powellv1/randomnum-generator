@@ -1,7 +1,16 @@
 # randomnum_generator
 
-A new Flutter project.
+A new project used to learn Flutter.
 
+Check out a few images from the app.
+
+<img src="assets/HomeScreen.png" alt="Home Screen" width=25% title="Home Screen" style="margin-top:15px;margin-right:15px">
+<img src="assets/Validation.png" alt="Home Screen" width=25% title="Validation"> <br/>
+<img src="assets/GeneratePage.png" alt="Home Screen" width=25% title="Generate Page" style="margin-top:25px; margin-right:15px">
+<img src="assets/RandomNumPage.png" alt="Home Screen" width=25% title="Randomize Page">
+
+
+<br/>
 ## Getting Started
 
 This project is a starting point for a Flutter application.
