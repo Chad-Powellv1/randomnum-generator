@@ -1,6 +1,6 @@
 # randomnum_generator
 
-A new project used to learn Flutter.
+A new project used to learn Flutter, thanks for stopping by.
 
 Check out a few images from the app.
 
